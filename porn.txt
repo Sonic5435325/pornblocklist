@@ -57,7 +57,10 @@
 ||fyptt.to^
 ||gay.bingo^
 ||gelbooru.com^
-||gogocams.click^ ! Redirect
+
+||gogocams.click^
+! Redirect
+
 ||gotporn.com^
 ||happy-porn.com^
 ||hclips.com^

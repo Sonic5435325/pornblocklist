@@ -121,6 +121,7 @@
 ||pornmate.com^
 ||pornmd.com^
 ||pornmovies.su^
+||pornpen.ai^
 ||pornpics.com^
 ||porntn.com^
 ||porntube.com^
@@ -145,6 +146,7 @@
 ||redtube.com^
 ||relax-porn.com^
 ||rule34.us^
+||sb-cd.com^
 ||sex.com^
 ||sex^$all
 ||sexlikereal.com^
@@ -153,6 +155,7 @@
 ||shooshtime.com^
 ||similarpornsites.net^
 ||spankbang.com^
+||spankbang.party^
 ||st-content.com^
 ||stripchat.com^
 ||terk.nl^
@@ -546,6 +549,7 @@ google.*##div.MjjYud,.isv-r:has([href*="://pornimigur.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://pornkai.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://pornkanal.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://pornmate.com"])
+google.*##div.MjjYud,.isv-r:has([href*="://pornpen.ai"])
 google.*##div.MjjYud,.isv-r:has([href*="://porntn.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://pornworld.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://pornzog.com"])

@@ -169,6 +169,8 @@
 ||spankbang.party^
 ||st-content.com^
 ||stripchat.com^
+||stripst.com^
+||strpst.com^
 ||terk.nl^
 ||thatpervert.com.cname.w.tools^
 ||thatpervert.com^

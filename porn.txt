@@ -57,10 +57,6 @@
 ||fyptt.to^
 ||gay.bingo^
 ||gelbooru.com^
-
-||gogocams.click^
-! Redirect
-
 ||gotporn.com^
 ||happy-porn.com^
 ||hclips.com^
@@ -220,11 +216,17 @@
 ||xxx^$all
 ||xxxbule.com^
 ||yespornpleasexxx.com^
+||youcams.xyz^
 ||youjizz.com^
 ||youporn.com^
 ||ypncdn.com.sds.rncdn7.com^
 ||ypncdn.com^
 ||zbporn.com^
+
+||gogocams.click^
+||venuscams.click^
+! Redirect
+
 ##[href*=".18porn.sex"]
 ##[href*=".4tube.com"]
 ##[href*=".8muses.com"]

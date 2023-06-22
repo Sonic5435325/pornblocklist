@@ -139,11 +139,13 @@
 ||realbooru.com^
 ||realitykings.com^
 ||recurbate.com^
+||reddit.com/r/christiangirls$all
 ||reddit.com/r/femboys$all
-||reddit.com/r/furaffinity/$all
+||reddit.com/r/furaffinity$all
 ||reddit.com/r/hentai$all
 ||reddit.com/r/nsfw$all
 ||reddit.com/r/porn$all
+||reddit.com/r/slut$all
 ||reddit.com/r/tranny$all
 ||reddit.com/r/yourpornaddiction$all
 ||redditp.com/r/hentai$all
@@ -393,6 +395,7 @@
 ##[href*="://upornia.com"]
 ##[href*="://vrporn.com"]
 ##[href*="://wapbold.net"]
+##[href*="://www.reddit.com/r/christiangirls"]
 ##[href*="://www.reddit.com/r/FemBoys"]
 ##[href*="://www.reddit.com/r/FurAffinity/"]
 ##[href*="://www.reddit.com/r/HENTAI"]
@@ -400,6 +403,7 @@
 ##[href*="://www.reddit.com/r/femboys"]
 ##[href*="://www.reddit.com/r/hentai"]
 ##[href*="://www.reddit.com/r/porn"]
+##[href*="://www.reddit.com/r/slut"]
 ##[href*="://www.reddit.com/r/yourpornaddiction"]
 ##[href*="://www.redditp.com/r/hentai"]
 ##[href*="://xconfessions.com"]
@@ -595,6 +599,7 @@ google.*##div.MjjYud,.isv-r:has([href*="://txxx.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://upornia.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://vrporn.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://wapbold.net"])
+google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/christiangirls"])
 google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/FemBoys"])
 google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/FurAffinity/"])
 google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/HENTAI"])
@@ -602,6 +607,7 @@ google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/Hentai"])
 google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/hentai"])
 google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/nsfw"])
 google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/porn"])
+google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/slut"])
 google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/yourpornaddiction"])
 google.*##div.MjjYud,.isv-r:has([href*="://www.redditp.com/r/hentai"])
 google.*##div.MjjYud,.isv-r:has([href*="://xconfessions.com"])

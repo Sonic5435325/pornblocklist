@@ -3,7 +3,6 @@
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
 
-
 ||4porn.com^
 ||4tube.com^
 ||8muses.com^

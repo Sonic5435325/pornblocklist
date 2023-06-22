@@ -15,6 +15,7 @@
 ||anyporn.com^
 ||apornvideo.com^
 ||archivebate.com^
+||assur-cyber.fr^
 ||bellesa.co^
 ||bestporncomix.com^
 ||bigporn.com^
@@ -309,6 +310,7 @@
 ##[href*="://anyporn.com"]
 ##[href*="://archivebate.com"]
 ##[href*="://area51.porn"]
+##[href*="://assur-cyber.fr"]
 ##[href*="://beeg.porn"]
 ##[href*="://bestporncomix.com"]
 ##[href*="://cbcam2cam.com"]
@@ -401,6 +403,7 @@
 ##[href*="://www.reddit.com/r/yourpornaddiction"]
 ##[href*="://www.redditp.com/r/hentai"]
 ##[href*="://xconfessions.com"]
+##[href*="://xecce.com"]
 ##[href*="://xfeed.com"]
 ##[href*="://xhamster.com"]
 ##[href*="://xhamster.desi"]
@@ -482,7 +485,6 @@ google.*##div.MjjYud,.isv-r:has([href*=".rexporn.sex"])
 google.*##div.MjjYud,.isv-r:has([href*=".sex.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".sexlikereal.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".spankbang.com"])
-google.*##div.MjjYud,.isv-r:has([href*=".spankbang.party"])
 google.*##div.MjjYud,.isv-r:has([href*=".terk.nl"])
 google.*##div.MjjYud,.isv-r:has([href*=".thumbzilla.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".tnaflix.com"])
@@ -576,6 +578,7 @@ google.*##div.MjjYud,.isv-r:has([href*="://shooshtime.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://similar.porn"])
 google.*##div.MjjYud,.isv-r:has([href*="://similarpornsites.net"])
 google.*##div.MjjYud,.isv-r:has([href*="://spankbang.com"])
+google.*##div.MjjYud,.isv-r:has([href*="://spankbang.party"])
 google.*##div.MjjYud,.isv-r:has([href*="://stripchat.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://thatpervert.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://thefappeningblog.com"])

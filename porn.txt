@@ -1,5 +1,5 @@
 ! Title: Porn Blocklist for uBlock Origin
-! Description: My own porn blocklist which also aims to hide porn search results on popular sites like Google.
+! Description: My own porn/erotica blocklist which also aims to hide porn search results on popular sites like Google.
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
 

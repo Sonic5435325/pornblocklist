@@ -24,6 +24,8 @@
 ||camwhoresbay.com^
 ||cbcam2cam.com^
 ||cdn-d1.com^
+||cdn37804682.ahacdn.me^
+||cdn56191079.ahacdn.me^
 ||cdn60198523.ahacdn.me^
 ||cds.a8u8c2g5.hwcdn.net^
 ||cds.n8e9k6r6.hwcdn.net^
@@ -93,6 +95,7 @@
 ||nhentaihaven.org^
 ||noodlemagazine.com^
 ||nudevista.com^
+||ocxim.com^
 ||omorashi.org^
 ||onlyhgames.com^
 ||others-cdn.com^
@@ -180,12 +183,16 @@
 ||tubtictic.com^
 ||twistedporn.com^
 ||twitter.com/chaturbate$all
+||txxx.ahcdn.com^
+||txxx.com^
+||txxx.tube^
 ||upornia.com^
 ||vrporn.com^
 ||wapbold.net^
 ||wav.tv^
 ||x-hd.video^
 ||xconfessions.com^
+||xecce.com^
 ||xfeed.com^
 ||xfree.com^
 ||xhamster*.$all
@@ -351,6 +358,7 @@
 ##[href*="://pornimigur.com"]
 ##[href*="://pornkanal.com"]
 ##[href*="://pornmate.com"]
+##[href*="://pornpen.ai"]
 ##[href*="://porntn.com"]
 ##[href*="://pornworld.com"]
 ##[href*="://pornzog.com"]
@@ -363,6 +371,7 @@
 ##[href*="://similar.porn"]
 ##[href*="://similarpornsites.net"]
 ##[href*="://spankbang.com"]
+##[href*="://spankbang.party"]
 ##[href*="://stripchat.com"]
 ##[href*="://thatpervert.com"]
 ##[href*="://thefappeningblog.com"]
@@ -375,6 +384,7 @@
 ##[href*="://trahkino.cc"]
 ##[href*="://tubesafari.com"]
 ##[href*="://twitter.com/chaturbate"]
+##[href*="://txxx.com"]
 ##[href*="://upornia.com"]
 ##[href*="://vrporn.com"]
 ##[href*="://wapbold.net"]
@@ -469,6 +479,7 @@ google.*##div.MjjYud,.isv-r:has([href*=".rexporn.sex"])
 google.*##div.MjjYud,.isv-r:has([href*=".sex.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".sexlikereal.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".spankbang.com"])
+google.*##div.MjjYud,.isv-r:has([href*=".spankbang.party"])
 google.*##div.MjjYud,.isv-r:has([href*=".terk.nl"])
 google.*##div.MjjYud,.isv-r:has([href*=".thumbzilla.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".tnaflix.com"])
@@ -574,6 +585,7 @@ google.*##div.MjjYud,.isv-r:has([href*="://totallyfreecam.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://trahkino.cc"])
 google.*##div.MjjYud,.isv-r:has([href*="://tubesafari.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://twitter.com/chaturbate"])
+google.*##div.MjjYud,.isv-r:has([href*="://txxx.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://upornia.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://vrporn.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://wapbold.net"])
@@ -587,6 +599,7 @@ google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/porn"])
 google.*##div.MjjYud,.isv-r:has([href*="://www.reddit.com/r/yourpornaddiction"])
 google.*##div.MjjYud,.isv-r:has([href*="://www.redditp.com/r/hentai"])
 google.*##div.MjjYud,.isv-r:has([href*="://xconfessions.com"])
+google.*##div.MjjYud,.isv-r:has([href*="://xecce.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://xhamster.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://xhamster.desi"])
 google.*##div.MjjYud,.isv-r:has([href*="://xhamster2.com"])

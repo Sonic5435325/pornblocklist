@@ -3,6 +3,7 @@
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
 
+||1480222913.rsc.cdn77.org^
 ||4porn.com^
 ||4tube.com^
 ||8muses.com^
@@ -200,10 +201,12 @@
 ||xlecx.one^
 ||xnxx.com^
 ||xnxx.llc^
+||xnxx-cdn.com^
 ||xnxxbest.pro^
 ||xv-videos1.com^
 ||xvideos*.com^
 ||xvideos-cdn.com^
+||xvideos-cdn.com.cdn.cloudflare.net^
 ||xxk.mobi^
 ||xxx^$all
 ||xxxbule.com^

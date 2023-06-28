@@ -45,6 +45,7 @@
 ||erikalust.com^
 ||erothots.co^
 ||eroticbeauties.net^
+||fansly.com^
 ||fapcat.com^
 ||fapnado.com^
 ||faponic.com^
@@ -329,6 +330,7 @@
 ##[href*="://e-hentai.org"]
 ##[href*="://erikalust.com"]
 ##[href*="://erothots.co"]
+##[href*="://fansly.com"]
 ##[href*="://faponic.com"]
 ##[href*="://fapster.xxx"]
 ##[href*="://freeporncategories.com"]
@@ -531,6 +533,7 @@ google.*##div.MjjYud,.isv-r:has([href*="://chaturbate."])
 google.*##div.MjjYud,.isv-r:has([href*="://e-hentai.org"])
 google.*##div.MjjYud,.isv-r:has([href*="://erikalust.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://erothots.co"])
+google.*##div.MjjYud,.isv-r:has([href*="://fansly.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://faponic.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://fapster.xxx"])
 google.*##div.MjjYud,.isv-r:has([href*="://freeporncategories.com"])

@@ -39,6 +39,7 @@
 ||chaturbaterooms.com^
 ||content-pgames.b-cdn.net^
 ||data18.com^
+||e621.net^
 ||ehgt.org^
 ||empflix.com^
 ||eporner.com^
@@ -327,6 +328,7 @@
 ##[href*="://cbcam2cam.com"]
 ##[href*="://celebjihad.com"]
 ##[href*="://chaturbate."]
+##[href*="://e621.net"]
 ##[href*="://e-hentai.org"]
 ##[href*="://erikalust.com"]
 ##[href*="://erothots.co"]
@@ -530,6 +532,7 @@ google.*##div.MjjYud,.isv-r:has([href*="://bestporncomix.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://cbcam2cam.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://celebjihad.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://chaturbate."])
+google.*##div.MjjYud,.isv-r:has([href*="://e621.net"])
 google.*##div.MjjYud,.isv-r:has([href*="://e-hentai.org"])
 google.*##div.MjjYud,.isv-r:has([href*="://erikalust.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://erothots.co"])

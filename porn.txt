@@ -35,7 +35,7 @@
 ||cds.a8u8c2g5.hwcdn.net^
 ||cds.n8e9k6r6.hwcdn.net^
 ||celebjihad.com^
-||chaturbate.$all
+||chaturbate.com^
 ||chaturbaterooms.com^
 ||content-pgames.b-cdn.net^
 ||data18.com^
@@ -327,7 +327,7 @@
 ##[href*="://bestporncomix.com"]
 ##[href*="://cbcam2cam.com"]
 ##[href*="://celebjihad.com"]
-##[href*="://chaturbate."]
+##[href*="://chaturbate.com"]
 ##[href*="://e621.net"]
 ##[href*="://e-hentai.org"]
 ##[href*="://erikalust.com"]
@@ -447,7 +447,7 @@ google.*##div.MjjYud,.isv-r:has([href*=".bigporn.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".boyfriendtv.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".camwhores.tv"])
 google.*##div.MjjYud,.isv-r:has([href*=".camwhoresbay.com"])
-google.*##div.MjjYud,.isv-r:has([href*=".chaturbate."])
+google.*##div.MjjYud,.isv-r:has([href*=".chaturbate.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".chaturbaterooms.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".data18.com"])
 google.*##div.MjjYud,.isv-r:has([href*=".empflix.com"])
@@ -531,7 +531,7 @@ google.*##div.MjjYud,.isv-r:has([href*="://beeg.porn"])
 google.*##div.MjjYud,.isv-r:has([href*="://bestporncomix.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://cbcam2cam.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://celebjihad.com"])
-google.*##div.MjjYud,.isv-r:has([href*="://chaturbate."])
+google.*##div.MjjYud,.isv-r:has([href*="://chaturbate.com"])
 google.*##div.MjjYud,.isv-r:has([href*="://e621.net"])
 google.*##div.MjjYud,.isv-r:has([href*="://e-hentai.org"])
 google.*##div.MjjYud,.isv-r:has([href*="://erikalust.com"])

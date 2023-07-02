@@ -243,7 +243,7 @@
 ##[href*=".bigporn.com"]
 ##[href*=".boyfriendtv.com"]
 ##[href*=".camwhores.tv"]
-##[href*=".chaturbate."]
+##[href*=".chaturbate.com"]
 ##[href*=".chaturbaterooms.com"]
 ##[href*=".data18.com"]
 ##[href*=".empflix.com"]

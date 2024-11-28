@@ -93,6 +93,7 @@
 ||luxuretv.com^
 ||manyrecs.com^
 ||manyvids.com^
+||maturetube.com^
 ||megapornfreehd.com^
 ||milf300.com^
 ||mostpornvideos.pro^
@@ -193,6 +194,7 @@
 ||tranny.com^
 ||tranny.one^
 ||trendyporn.com^
+||ttcache.com^
 ||tube8.com^
 ||tubegalore.com^
 ||tubesafari.com^
@@ -232,7 +234,7 @@
 ||youporn.com^
 ||ypncdn.com.sds.rncdn7.com^
 ||ypncdn.com^
-||zbporn.com^
+||zbporn.*^
 
 ||gogocams.click^
 ||venuscams.click^
@@ -274,6 +276,8 @@
 ##[href*=".lewdweb.net"]
 ##[href*=".lucasentertainment.com"]
 ##[href*=".luxuretv.com"]
+##[href*=".manyvids.com"]
+##[href*=".maturetube.com"]
 ##[href*=".mrstiff.com"]
 ##[href*=".mypmovies.com"]
 ##[href*=".nudevista.com"]
@@ -302,6 +306,7 @@
 ##[href*=".rexporn.sex"]
 ##[href*=".sex.com"]
 ##[href*=".sexlikereal.com"]
+##[href*=".sexvid.xxx"]
 ##[href*=".spankbang.com"]
 ##[href*=".terk.nl"]
 ##[href*=".thumbzilla.com"]
@@ -415,7 +420,6 @@
 ##[href*="://upornia.com"]
 ##[href*="://vrporn.com"]
 ##[href*="://wapbold.net"]
-##[href*="://www.manyvids.com"]
 ##[href*="://www.reddit.com/r/christiangirls"]
 ##[href*="://www.reddit.com/r/FemBoys"]
 ##[href*="://www.reddit.com/r/FurAffinity/"]
@@ -440,7 +444,7 @@
 ##[href*="://xxk.mobi"]
 ##[href*="://xxxi.porn"]
 ##[href*="://yespornpleasexxx.com"]
-##[href*="://zbporn.com"]
+##[href*="://zbporn."]
 ##[href^="https://www.reddit.com/r/slut"]
 ##[iframe*=".pornhub.com"]
 ##[iframe*=".xvideos.com"]
@@ -517,6 +521,8 @@ google.*##.dURPMd > div > div:has([href*=".lucasentertainment.com"])
 google.*##div.eA0Zlc:has([href*=".lucasentertainment.com"])
 google.*##.dURPMd > div > div:has([href*=".luxuretv.com"])
 google.*##div.eA0Zlc:has([href*=".luxuretv.com"])
+google.*##.dURPMd > div > div:has([href*=".maturetube.com"])
+google.*##div.eA0Zlc:has([href*=".maturetube.com"])
 google.*##.dURPMd > div > div:has([href*=".mrstiff.com"])
 google.*##div.eA0Zlc:has([href*=".mrstiff.com"])
 google.*##.dURPMd > div > div:has([href*=".mypmovies.com"])
@@ -573,6 +579,8 @@ google.*##.dURPMd > div > div:has([href*=".sex.com"])
 google.*##div.eA0Zlc:has([href*=".sex.com"])
 google.*##.dURPMd > div > div:has([href*=".sexlikereal.com"])
 google.*##div.eA0Zlc:has([href*=".sexlikereal.com"])
+google.*##.dURPMd > div > div:has([href*=".sexvid.xxx"])
+google.*##div.eA0Zlc:has([href*=".sexvid.xxx"])
 google.*##.dURPMd > div > div:has([href*=".spankbang.com"])
 google.*##div.eA0Zlc:has([href*=".spankbang.com"])
 google.*##.dURPMd > div > div:has([href*=".terk.nl"])
@@ -801,8 +809,6 @@ google.*##.dURPMd > div > div:has([href*="://vrporn.com"])
 google.*##div.eA0Zlc:has([href*="://vrporn.com"])
 google.*##.dURPMd > div > div:has([href*="://wapbold.net"])
 google.*##div.eA0Zlc:has([href*="://wapbold.net"])
-google.*##.dURPMd > div > div:has([href*="://x.com/chaturbate"])
-google.*##div.eA0Zlc:has([href*="://x.com/chaturbate"])
 google.*##.dURPMd > div > div:has([href*="://www.best18porn.com"])
 google.*##div.eA0Zlc:has([href*="://www.best18porn.com"])
 google.*##.dURPMd > div > div:has([href*="://www.reddit.com/r/christiangirls"])
@@ -831,6 +837,8 @@ google.*##.dURPMd > div > div:has([href*="://www.redditp.com/r/hentai"])
 google.*##div.eA0Zlc:has([href*="://www.redditp.com/r/hentai"])
 google.*##.dURPMd > div > div:has([href*="://www.trendyporn.com"])
 google.*##div.eA0Zlc:has([href*="://www.trendyporn.com"])
+google.*##.dURPMd > div > div:has([href*="://x.com/chaturbate"])
+google.*##div.eA0Zlc:has([href*="://x.com/chaturbate"])
 google.*##.dURPMd > div > divc:has([href*="://xconfessions.com"])
 google.*##div.eA0Zlc:has([href*="://xconfessions.com"])
 google.*##.dURPMd > div > div:has([href*="://xecce.com"])
@@ -851,8 +859,8 @@ google.*##.dURPMd > div > div:has([href*="://xxxi.porn"])
 google.*##div.eA0Zlc:has([href*="://xxxi.porn"])
 google.*##.dURPMd > div > div:has([href*="://yespornpleasexxx.com"])
 google.*##div.eA0Zlc:has([href*="://yespornpleasexxx.com"])
-google.*##.dURPMd > div > div:has([href*="://zbporn.com"])
-google.*##div.eA0Zlc:has([href*="://zbporn.com"])
+google.*##.dURPMd > div > div:has([href*="://zbporn."])
+google.*##div.eA0Zlc:has([href*="://zbporn."])
 google.*##.dURPMd > div > div:has([href^="https://www.reddit.com/r/slut"])
 google.*##div.eA0Zlc:has([href^="https://www.reddit.com/r/slut"])
 linktr.ee##.group:has([type="ONLYFANS"])

@@ -18,7 +18,9 @@
 ||assur-cyber.fr^
 ||bcicdn.com.cdn.cloudflare.net^
 ||bcicdn.com^
+||bigfuck.tv^
 ||bellesa.co^
+||best18porn.com^
 ||bestporncomix.com^
 ||bigporn.com^
 ||bimbolive.com^
@@ -189,6 +191,7 @@
 ||trahkino.cc^
 ||tranny.com^
 ||tranny.one^
+||trendyporn.com^
 ||tube8.com^
 ||tubegalore.com^
 ||tubesafari.com^
@@ -243,6 +246,7 @@
 ##[href*=".apornvideo.com"]
 ##[href*=".bellesa.co"]
 ##[href*=".bigporn.com"]
+##[href*=".bigfuck.tv"]
 ##[href*=".boyfriendtv.com"]
 ##[href*=".camwhores.tv"]
 ##[href*=".chaturbate.com"]
@@ -419,10 +423,10 @@
 ##[href*="://www.reddit.com/r/hentai"]
 ##[href*="://www.reddit.com/r/NSFW"]
 ##[href*="://www.reddit.com/r/porn"]
-##[href*="://www.reddit.com/r/slut"]
 ##[href*="://www.reddit.com/r/tranny"]
 ##[href*="://www.reddit.com/r/yourpornaddiction"]
 ##[href*="://www.redditp.com/r/hentai"]
+##[href*="://www.trendyporn.com"]
 ##[href*="://xconfessions.com"]
 ##[href*="://xecce.com"]
 ##[href*="://xfeed.com"]
@@ -435,6 +439,7 @@
 ##[href*="://xxxi.porn"]
 ##[href*="://yespornpleasexxx.com"]
 ##[href*="://zbporn.com"]
+##[href^="https://www.reddit.com/r/slut"]
 ##[iframe*=".pornhub.com"]
 ##[iframe*=".xvideos.com"]
 allmylinks.com##.list-item-wrapper:has(.adult-hidden)
@@ -611,11 +616,12 @@ google.*##.N54PNb, div.eA0Zlc:has([href*="://toppornsites.com"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://totallyfreecam.com"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://trahkino.cc"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://tubesafari.com"])
-google.*##.N54PNb, div.eA0Zlc:has([href*="://twitter.com/chaturbate"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://txxx.com"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://upornia.com"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://vrporn.com"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://wapbold.net"])
+google.*##.N54PNb, div.eA0Zlc:has([href*="://x.com/chaturbate"])
+google.*##.N54PNb, div.eA0Zlc:has([href*="://www.best18porn.com"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://www.reddit.com/r/christiangirls"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://www.reddit.com/r/FemBoys"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://www.reddit.com/r/FurAffinity/"])
@@ -625,10 +631,10 @@ google.*##.N54PNb, div.eA0Zlc:has([href*="://www.reddit.com/r/hentai"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://www.reddit.com/r/nsfw"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://www.reddit.com/r/NSFW"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://www.reddit.com/r/porn"])
-google.*##.N54PNb, div.eA0Zlc:has([href*="://www.reddit.com/r/slut"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://www.reddit.com/r/tranny"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://www.reddit.com/r/yourpornaddiction"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://www.redditp.com/r/hentai"])
+google.*##.N54PNb, div.eA0Zlc:has([href*="://www.trendyporn.com"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://xconfessions.com"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://xecce.com"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://xhamster.com"])
@@ -640,6 +646,7 @@ google.*##.N54PNb, div.eA0Zlc:has([href*="://xxk.mobi"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://xxxi.porn"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://yespornpleasexxx.com"])
 google.*##.N54PNb, div.eA0Zlc:has([href*="://zbporn.com"])
+google.*##.N54PNb, div.eA0Zlc:has([href^="https://www.reddit.com/r/slut"])
 linktr.ee##.group:has([type="ONLYFANS"])
 redd.tube##.row > div:has(.nsfw)
 reddit.com##.linklisting > div, article, div.mx-md:has([href*=".pornhub.com"])

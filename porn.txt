@@ -32,6 +32,7 @@
 ||bongacams.com^
 ||boyfriendtv.com^
 ||boysfood.com^
+||camgirls.casa^
 ||camsavexx.com^
 ||camshowrecordings.com^
 ||camvideos.me^
@@ -51,6 +52,7 @@
 ||coomer.su^
 ||content-pgames.b-cdn.net^
 ||data18.com^
+||daywrzyvz0ar2.cloudfront.net^
 ||e621.net^
 ||ehgt.org^
 ||empflix.com^
@@ -102,6 +104,7 @@
 ||leakedzone.com^
 ||letsjerk.tv^
 ||lewdweb.net^
+||livesex.top^
 ||lucasentertainment.com^
 ||luxuretv.com^
 ||manyrecs.com^
@@ -184,6 +187,7 @@
 ||sex.com^
 ||sex^$all
 ||sexlikereal.com^
+||sexviacam.com^
 ||sexvideos.host^
 ||shesfreaky.com^
 ||shooshtime.com^
@@ -227,6 +231,7 @@
 ||vrporn.com^
 ||wapbold.net^
 ||wav.tv^
+||webcamrecs.com^
 ||x-hd.video^
 ||xconfessions.com^
 ||xecce.com^
@@ -331,6 +336,7 @@
 ##[href*=".relax-porn.com"]
 ##[href*=".rexporn.sex"]
 ##[href*=".sex.com"]
+##[href*=".sexviacam.com"]
 ##[href*=".sexlikereal.com"]
 ##[href*=".sexvid.xxx"]
 ##[href*=".spankbang.com"]
@@ -364,6 +370,7 @@
 ##[href*="://beeg.porn"]
 ##[href*="://bestcam.tv"]
 ##[href*="://bestporncomix.com"]
+##[href*="://camgirls.casa"]
 ##[href*="://camvideos.me"]
 ##[href*="://camwhores.video"]
 ##[href*="://cbcam2cam.com"]
@@ -400,6 +407,7 @@
 ##[href*="://kingcomix.com"]
 ##[href*="://leakedzone.com"]
 ##[href*="://letsjerk.tv"]
+##[href*="://livesex.top"]
 ##[href*="://manyrecs.com"]
 ##[href*="://megapornfreehd.com"]
 ##[href*="://milf300.com"]
@@ -455,6 +463,7 @@
 ##[href*="://upornia.com"]
 ##[href*="://vrporn.com"]
 ##[href*="://wapbold.net"]
+##[href*="://webcamrecs.com"]
 ##[href*="://www.reddit.com/r/christiangirls"]
 ##[href*="://www.reddit.com/r/FemBoys"]
 ##[href*="://www.reddit.com/r/FurAffinity/"]
@@ -621,6 +630,8 @@ google.*##.dURPMd > div > div:has([href*=".rexporn.sex"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".rexporn.sex"])
 google.*##.dURPMd > div > div:has([href*=".sex.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sex.com"])
+google.*##.dURPMd > div > div:has([href*=".sexviacam.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sexviacam.com"])
 google.*##.dURPMd > div > div:has([href*=".sexlikereal.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sexlikereal.com"])
 google.*##.dURPMd > div > div:has([href*=".sexvid.xxx"])
@@ -687,6 +698,8 @@ google.*##.dURPMd > div > div:has([href*="://bestcam.tv"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://bestcam.tv"])
 google.*##.dURPMd > div > div:has([href*="://bestporncomix.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://bestporncomix.com"])
+google.*##.dURPMd > div > div:has([href*="://camgirls.casa"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://camgirls.casa"])
 google.*##.dURPMd > div > div:has([href*="://camvideos.me"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://camvideos.me"])
 google.*##.dURPMd > div > div:has([href*="://camwhores.video"])
@@ -759,6 +772,8 @@ google.*##.dURPMd > div > div:has([href*="://leakedzone.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://leakedzone.com"])
 google.*##.dURPMd > div > div:has([href*="://letsjerk.tv"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://letsjerk.tv"])
+google.*##.dURPMd > div > div:has([href*="://livesex.top"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://livesex.top"])
 google.*##.dURPMd > div > div:has([href*="://manyrecs.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://manyrecs.com"])
 google.*##.dURPMd > div > div:has([href*="://manyvids.com"])
@@ -871,6 +886,8 @@ google.*##.dURPMd > div > div:has([href*="://vrporn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://vrporn.com"])
 google.*##.dURPMd > div > div:has([href*="://wapbold.net"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://wapbold.net"])
+google.*##.dURPMd > div > div:has([href*="://webcamrecs.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://webcamrecs.com"])
 google.*##.dURPMd > div > div:has([href*="://www.best18porn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://www.best18porn.com"])
 google.*##.dURPMd > div > div:has([href*="://www.reddit.com/r/christiangirls"])

@@ -1,5 +1,5 @@
 ! Title: Porn Blocklist for uBlock Origin
-! Last Updated: 2024-11-28 02:07
+! Last Updated: 2024-11-28 02:45
 ! Description: My own porn/erotica blocklist which also aims to hide porn search results on popular sites like Google.
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
@@ -184,6 +184,7 @@
 ||relax-porn.com^
 ||rule34.us^
 ||sb-cd.com^
+||savemycam.com^
 ||sex.com^
 ||sex^$all
 ||sexlikereal.com^
@@ -196,6 +197,7 @@
 ||spankbang.com^
 ||spankbang.party^
 ||st-content.com^
+||stream-leak.com^
 ||stripchat.com^
 ||stripst.com^
 ||strpst.com^
@@ -237,6 +239,7 @@
 ||xecce.com^
 ||xfeed.com^
 ||xfree.com^
+||xgirls.agency^
 ||xhamster*.$all
 ||xhcdn.com^
 ||xhopen.com^
@@ -438,6 +441,7 @@
 ##[href*="://recurbate.com"]
 ##[href*="://recurbate1.com"]
 ##[href*="://rule34.us"]
+##[href*="://savemycam.com"]
 ##[href*="://sexvideos.host"]
 ##[href*="://shesfreaky.com"]
 ##[href*="://shooshtime.com"]
@@ -446,6 +450,7 @@
 ##[href*="://simpcity.tv"]
 ##[href*="://spankbang.com"]
 ##[href*="://spankbang.party"]
+##[href*="://stream-leak.com"]
 ##[href*="://stripchat.com"]
 ##[href*="://thatpervert.com"]
 ##[href*="://thefappeningblog.com"]
@@ -481,6 +486,7 @@
 ##[href*="://xecce.com"]
 ##[href*="://x-video.tube"]
 ##[href*="://xfeed.com"]
+##[href*="://xgirls.agency"]
 ##[href*="://xhamster.com"]
 ##[href*="://xhamster.desi"]
 ##[href*="://xhamster2.com"]
@@ -838,6 +844,8 @@ google.*##.dURPMd > div > div:has([href*="://recurbate1.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://recurbate1.com"])
 google.*##.dURPMd > div > div:has([href*="://rule34.us"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://rule34.us"])
+google.*##.dURPMd > div > div:has([href*="://savemycam.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://savemycam.com"])
 google.*##.dURPMd > div > div:has([href*="://sexvideos.host"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://sexvideos.host"])
 google.*##.dURPMd > div > div:has([href*="://shesfreaky.com"])
@@ -854,6 +862,8 @@ google.*##.dURPMd > div > div:has([href*="://spankbang.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://spankbang.com"])
 google.*##.dURPMd > div > div:has([href*="://spankbang.party"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://spankbang.party"])
+google.*##.dURPMd > div > div:has([href*="://stream-leak.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://stream-leak.com"])
 google.*##.dURPMd > div > div:has([href*="://stripchat.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://stripchat.com"])
 google.*##.dURPMd > div > div:has([href*="://thatpervert.com"])
@@ -924,6 +934,10 @@ google.*##.dURPMd > div > divc:has([href*="://xconfessions.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://xconfessions.com"])
 google.*##.dURPMd > div > div:has([href*="://xecce.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://xecce.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://xfeed.com"])
+google.*##.dURPMd > div > div:has([href*="://xfeed.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://xgirls.agency"])
+google.*##.dURPMd > div > div:has([href*="://xgirls.agency"])
 google.*##.dURPMd > div > div:has([href*="://xhamster.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://xhamster.com"])
 google.*##.dURPMd > div > div:has([href*="://xhamster.desi"])

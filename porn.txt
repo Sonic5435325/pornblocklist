@@ -51,6 +51,7 @@
 ||eroticbeauties.net^
 ||fansly.com^
 ||fapcat.com^
+||fapello.com^
 ||fapeza.com^
 ||fapnado.com^
 ||faponic.com^
@@ -347,6 +348,7 @@
 ##[href*="://erikalust.com"]
 ##[href*="://erothots.co"]
 ##[href*="://fansly.com"]
+##[href*="://fapello.com"]
 ##[href*="://faponic.com"]
 ##[href*="://fapster.xxx"]
 ##[href*="://freeporncategories.com"]
@@ -660,6 +662,8 @@ google.*##.dURPMd > div > div:has([href*="://erothots.co"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://erothots.co"])
 google.*##.dURPMd > div > div:has([href*="://fansly.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://fansly.com"])
+google.*##.dURPMd > div > div:has([href*="://fapello.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://fapello.com"])
 google.*##.dURPMd > div > div:has([href*="://faponic.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://faponic.com"])
 google.*##.dURPMd > div > div:has([href*="://fapster.xxx"])

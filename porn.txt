@@ -322,7 +322,7 @@
 ||youporn.com^
 ||ypncdn.com.sds.rncdn7.com^
 ||ypncdn.com^
-||zbporn.*^
+||zbporn.*^$all
 
 !-----------------------REDIRECT------------------------
 ||gogocams.click^

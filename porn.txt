@@ -1,5 +1,5 @@
 ! Title: Porn Blocklist for uBlock Origin
-! Last Updated: 2024-11-30 04:32
+! Last Updated: 2024-11-30 06:59
 ! Description: My own porn/erotica blocklist which also aims to hide porn search results on popular sites like Google.
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
@@ -102,7 +102,7 @@
 ||freshporno.net^
 ||fuq.com^
 ||fuqqt.com^
-||furaffinity.^
+||furaffinity.net^
 ||fyptt.to^
 ||gay.bingo^
 ||gaymobile.fr^
@@ -297,7 +297,7 @@
 ||xfree.com^
 ||xgirls.agency^
 ||xgroovy.com^
-||xhamster*.$all
+||xhamster.com^
 ||xhcdn.com^
 ||xhopen.com^
 ||xlecx.one^
@@ -312,7 +312,7 @@
 ||xvideos-cdn.com^
 ||xvideos-cdn.com.cdn.cloudflare.net^
 ||xxk.mobi^
-||xxx^
+||xxx^$all
 ||xxxbp.tv^
 ||xxxbule.com^
 ||xxxcdn.org^
@@ -364,7 +364,7 @@
 ##[href*=".foxporns.com"]
 ##[href*=".freepornvideos.su"]
 ##[href*=".fuq.com"]
-##[href*=".furaffinity."]
+##[href*=".furaffinity.net"]
 ##[href*=".gaymobile.fr"]
 ##[href*=".gotporn.com"]
 ##[href*=".hdpplanet.com"]
@@ -675,8 +675,8 @@ google.*##div.eA0Zlc:has([href*=".freepornvideos.su"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".freepornvideos.su"])
 google.*##div.eA0Zlc:has([href*=".fuq.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".fuq.com"])
-google.*##div.eA0Zlc:has([href*=".furaffinity."])
-google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".furaffinity."])
+google.*##div.eA0Zlc:has([href*=".furaffinity.net"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".furaffinity.net"])
 google.*##div.eA0Zlc:has([href*=".gaymobile.fr"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".gaymobile.fr"])
 google.*##div.eA0Zlc:has([href*=".gotporn.com"])

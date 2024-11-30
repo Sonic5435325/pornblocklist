@@ -1,5 +1,5 @@
 ! Title: Porn Blocklist for uBlock Origin
-! Last Updated: 2024-11-30 06:59
+! Last Updated: 2024-11-30 07:45
 ! Description: My own porn/erotica blocklist which also aims to hide porn search results on popular sites like Google.
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
@@ -11,6 +11,7 @@
 ||1370816519.rsc.cdn77.org^
 ||1397147936.rsc.cdn77.org^
 ||1480222913.rsc.cdn77.org^
+||159.89.198.98^
 ||1932035338.rsc.cdn77.org^
 ||1976445928.rsc.cdn77.org^
 ||4porn.com^
@@ -23,6 +24,7 @@
 ||allporncomic.com^
 ||alohatube.com^
 ||ambercutie.com^
+||analvids.com^
 ||anyporn.com^
 ||apornvideo.com^
 ||archivebate.com^
@@ -40,6 +42,7 @@
 ||boyfriendtv.com^
 ||boysfood.com^
 ||cam4.com^
+||cambro.io^
 ||camgirls.casa^
 ||cammodeldirectory.com^
 ||camsavexx.com^
@@ -71,6 +74,7 @@
 ||daywrzyvz0ar2.cloudfront.net^
 ||dfv0rm7s0skbk.cloudfront.net^
 ||dinotube.com^
+||dudethrill.com^
 ||dwz6ii88l0azy.cloudfront.net^
 ||e621.net^
 ||ehgt.org^
@@ -106,7 +110,9 @@
 ||gay.bingo^
 ||gaymobile.fr^
 ||gelbooru.com^
+||girlsgonewild.com^
 ||gotporn.com^
+||gtflixtv.com^
 ||happy-porn.com^
 ||hclips.com^
 ||hdporncomics.com^
@@ -121,12 +127,14 @@
 ||homepornking.com^
 ||hotporntube.co^
 ||hqporner.com^
+||iafd.com^
 ||icegay.tv^
 ||ilikecomix.com^
 ||imagefap.com^
 ||imgfv.com^
 ||imlive.com^
 ||imlmediahub.com^
+||indexxx.com^
 ||iwank.tv^
 ||ixxx.com^
 ||jerkmate.com^
@@ -134,6 +142,7 @@
 ||kingcomix.com^
 ||leakedzone.com^
 ||leakimedia.com^
+||lesbian8.com^
 ||letsjerk.tv^
 ||lewdweb.net^
 ||livesex.top^
@@ -178,6 +187,7 @@
 ||porn300.com^
 ||porn62.com^
 ||porn^$all
+||pornbox.com^
 ||porncord.com^
 ||porncrash.com^
 ||porndudecdn.com^
@@ -185,6 +195,10 @@
 ||porngameshub.com^
 ||porngrey.net^
 ||pornhat.com^
+||pornhoarder.net^
+||pornhoarder.org^
+||pornhoarder.pics^
+||pornhoarder.tv^
 ||pornhub.com^
 ||pornhubpremium.com^
 ||pornimigur.com^
@@ -202,11 +216,13 @@
 ||porntv.com^
 ||pornwebmasters.com^
 ||pornworld.com^
+||pornx.tube^
 ||pornzog.com^
 ||porzo.com^
 ||private.com^
 ||qorno.com^
 ||queermenow.com^
+||ravenvicexxx.com^
 ||reachporn.b-cdn.net^
 ||reachporn.com^
 ||realbooru.com^
@@ -235,6 +251,7 @@
 ||sexlikereal.com^
 ||sexviacam.com^
 ||sexvideos.host^
+||sheer.com^
 ||shesfreaky.com^
 ||shooshtime.com^
 ||similarpornsites.net^
@@ -247,6 +264,7 @@
 ||stripst.com^
 ||strpst.com^
 ||superporn.com^
+||sxyprn.net^
 ||terk.nl^
 ||thatpervert.com.cname.w.tools^
 ||thatpervert.com^
@@ -263,6 +281,7 @@
 ||tommys-bookmarks.com^
 ||toppornsites.com^
 ||totallyfreecam.com^
+||trafficdeposit.com^
 ||trahkino.cc^
 ||tranny.com^
 ||tranny.one^
@@ -304,6 +323,7 @@
 ||xnxx2.com^
 ||xnxx.llc^
 ||xnxx-cdn.com^
+||xnxx-ru1.com^
 ||xnxxbest.pro^
 ||xozilla.com^
 ||xv-videos1.com^
@@ -337,6 +357,7 @@
 ##[href*=".adultempire.com"]
 ##[href*=".alohatube.com"]
 ##[href*=".ambercutie.com"]
+##[href*=".analvids.com"]
 ##[href*=".apornvideo.com"]
 ##[href*=".bellesa.co"]
 ##[href*=".bigporn.com"]
@@ -344,6 +365,7 @@
 ##[href*=".boy18tube.com"]
 ##[href*=".boyfriendtv.com"]
 ##[href*=".cam4.com"]
+##[href*=".cambro.io"]
 ##[href*=".cammodeldirectory.com"]
 ##[href*=".camwhores.tv"]
 ##[href*=".camsavexx.com"]
@@ -361,6 +383,7 @@
 ##[href*=".fapnado.com"]
 ##[href*=".forhertube.com"]
 ##[href*=".foxporns.com"]
+##[href*=".fpo.xxx"]
 ##[href*=".freepornvideos.su"]
 ##[href*=".fuq.com"]
 ##[href*=".furaffinity.net"]
@@ -370,10 +393,13 @@
 ##[href*=".hdtube.porn"]
 ##[href*=".heavy-r.com"]
 ##[href*=".homepornking.com"]
+##[href*=".iafd.com"]
 ##[href*=".icegay.tv"]
 ##[href*=".imagefap.com"]
+##[href*=".indexxx.com"]
 ##[href*=".ixxx.com"]
 ##[href*=".jkmte.com"]
+##[href*=".lesbian8.com"]
 ##[href*=".lewdweb.net"]
 ##[href*=".lucasentertainment.com"]
 ##[href*=".luxuretv.com"]
@@ -389,8 +415,11 @@
 ##[href*=".perfectgirls.xxx"]
 ##[href*=".porn.biz"]
 ##[href*=".porn.com"]
+##[href*=".pornbox.com"]
 ##[href*=".porngrey.com"]
 ##[href*=".pornhat.com"]
+##[href*=".pornhoarder.org"]
+##[href*=".pornhoarder.tv"]
 ##[href*=".pornhub.com"]
 ##[href*=".pornhubpremium.com"]
 ##[href*=".pornjam.com"]
@@ -404,6 +433,7 @@
 ##[href*=".private.com"]
 ##[href*=".qorno.com"]
 ##[href*=".queermenow.com"]
+##[href*=".ravenvicexxx.com"]
 ##[href*=".realitykings.com"]
 ##[href*=".redgifs.com"]
 ##[href*=".redtube.com"]
@@ -413,6 +443,7 @@
 ##[href*=".sexviacam.com"]
 ##[href*=".sexlikereal.com"]
 ##[href*=".sexvid.xxx"]
+##[href*=".sheer.com"]
 ##[href*=".superporn.com"]
 ##[href*=".terk.nl"]
 ##[href*=".thepornlist.net"]
@@ -429,6 +460,7 @@
 ##[href*=".xhamster.com"]
 ##[href*=".xhdporno.porn"]
 ##[href*=".xnxx.com"]
+##[href*=".xnxx-ru1.com"]
 ##[href*=".xnxx2.com"]
 ##[href*=".xozilla.com"]
 ##[href*=".xozilla.xxx"]
@@ -441,6 +473,7 @@
 ##[href*=".youjizz.com"]
 ##[href*=".youporn.com"]
 ##[href*=".youx.xxx"]
+##[href*="://159.89.198.98"]
 ##[href*="://4porn.com"]
 ##[href*="://777.porn"]
 ##[href*="://allporncomic.com"]
@@ -458,6 +491,7 @@
 ##[href*="://chaturbate.com"]
 ##[href*="://check.porn"]
 ##[href*="://coomer.su"]
+##[href*="://dudethrill.com"]
 ##[href*="://e621.net"]
 ##[href*="://e-hentai.org"]
 ##[href*="://erikalust.com"]
@@ -478,6 +512,7 @@
 ##[href*="://fyptt.to"]
 ##[href*="://gay.bingo"]
 ##[href*="://gelbooru.com"]
+##[href*="://girlsgonewild.com"]
 ##[href*="://happy-porn.com"]
 ##[href*="://hclips.com"]
 ##[href*="://hdporncomics.com"]
@@ -520,6 +555,7 @@
 ##[href*="://porn-plus.com"]
 ##[href*="://porn112.com"]
 ##[href*="://porn62.com"]
+##[href*="://pornbox.com"]
 ##[href*="://porncord.com"]
 ##[href*="://porncrash.com"]
 ##[href*="://porngames.games"]
@@ -532,6 +568,7 @@
 ##[href*="://porntn.com"]
 ##[href*="://pornwebmasters.com"]
 ##[href*="://pornworld.com"]
+##[href*="://pornx.tube"]
 ##[href*="://pornzog.com"]
 ##[href*="://reachporn.com"]
 ##[href*="://realbooru.com"]
@@ -550,6 +587,7 @@
 ##[href*="://spankbang.party"]
 ##[href*="://stream-leak.com"]
 ##[href*="://stripchat.com"]
+##[href*="://sxyprn.net"]
 ##[href*="://thatpervert.com"]
 ##[href*="://thebestfetishsites.com"]
 ##[href*="://thefappeningblog.com"]
@@ -605,8 +643,6 @@
 ##[iframe*=".pornhub.com"]
 ##[iframe*=".xvideos.com"]
 allmylinks.com##.list-item-wrapper:has(.adult-hidden)
-google.*##div.eA0Zlc:has([href*="://zbporn.com"]) 
-google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://zbporn.com"]) 
 google.*##div.eA0Zlc:has([href*=".4tube.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".4tube.com"])
 google.*##div.eA0Zlc:has([href*=".8muses.com"])
@@ -619,6 +655,8 @@ google.*##div.eA0Zlc:has([href*=".adultempire.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".adultempire.com"])
 google.*##div.eA0Zlc:has([href*=".ambercutie.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".ambercutie.com"])
+google.*##div.eA0Zlc:has([href*=".analvids.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".analvids.com"])
 google.*##div.eA0Zlc:has([href*=".alohatube.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".alohatube.com"])
 google.*##div.eA0Zlc:has([href*=".apornvideo.com"])
@@ -633,6 +671,8 @@ google.*##div.eA0Zlc:has([href*=".boyfriendtv.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".boyfriendtv.com"])
 google.*##div.eA0Zlc:has([href*=".cam4.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".cam4.com"])
+google.*##div.eA0Zlc:has([href*=".cambro.io"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".cambro.io"])
 google.*##div.eA0Zlc:has([href*=".cammodeldirectory.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".cammodeldirectory.com"])
 google.*##div.eA0Zlc:has([href*=".camsavexx.com"])
@@ -669,6 +709,8 @@ google.*##div.eA0Zlc:has([href*=".forhertube.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".forhertube.com"])
 google.*##div.eA0Zlc:has([href*=".foxporns.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".foxporns.com"])
+google.*##div.eA0Zlc:has([href*=".fpo.xxx"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".fpo.xxx"])
 google.*##div.eA0Zlc:has([href*=".freepornvideos.su"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".freepornvideos.su"])
 google.*##div.eA0Zlc:has([href*=".fuq.com"])
@@ -687,20 +729,28 @@ google.*##div.eA0Zlc:has([href*=".heavy-r.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".heavy-r.com"])
 google.*##div.eA0Zlc:has([href*=".homepornking.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".homepornking.com"])
+google.*##div.eA0Zlc:has([href*=".iafd.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".iafd.com"])
 google.*##div.eA0Zlc:has([href*=".icegay.tv"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".icegay.tv"])
 google.*##div.eA0Zlc:has([href*=".imagefap.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".imagefap.com"])
+google.*##div.eA0Zlc:has([href*=".indexxx.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".indexxx.com"])
 google.*##div.eA0Zlc:has([href*=".ixxx.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".ixxx.com"])
 google.*##div.eA0Zlc:has([href*=".jkmte.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".jkmte.com"])
+google.*##div.eA0Zlc:has([href*=".lesbian8.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".lesbian8.com"])
 google.*##div.eA0Zlc:has([href*=".lewdweb.net"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".lewdweb.net"])
 google.*##div.eA0Zlc:has([href*=".lucasentertainment.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".lucasentertainment.com"])
 google.*##div.eA0Zlc:has([href*=".luxuretv.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".luxuretv.com"])
+google.*##div.eA0Zlc:has([href*=".manyvids.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".manyvids.com"])
 google.*##div.eA0Zlc:has([href*=".maturetube.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".maturetube.com"])
 google.*##div.eA0Zlc:has([href*=".mrstiff.com"])
@@ -723,12 +773,18 @@ google.*##div.eA0Zlc:has([href*=".porn.biz"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".porn.biz"])
 google.*##div.eA0Zlc:has([href*=".porn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".porn.com"])
+google.*##div.eA0Zlc:has([href*=".pornbox.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".pornbox.com"])
 google.*##div.eA0Zlc:has([href*=".porngrey.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".porngrey.com"])
 google.*##div.eA0Zlc:has([href*=".porn300.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".porn300.com"])
 google.*##div.eA0Zlc:has([href*=".pornhat.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".pornhat.com"])
+google.*##div.eA0Zlc:has([href*=".pornhoarder.org"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".pornhoarder.org"])
+google.*##div.eA0Zlc:has([href*=".pornhoarder.tv"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".pornhoarder.tv"])
 google.*##div.eA0Zlc:has([href*=".pornhub.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".pornhub.com"])
 google.*##div.eA0Zlc:has([href*=".pornhubpremium.com"])
@@ -755,6 +811,8 @@ google.*##div.eA0Zlc:has([href*=".qorno.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".qorno.com"])
 google.*##div.eA0Zlc:has([href*=".queermenow.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".queermenow.com"])
+google.*##div.eA0Zlc:has([href*=".ravenvicexxx.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".ravenvicexxx.com"])
 google.*##div.eA0Zlc:has([href*=".realitykings.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".realitykings.com"])
 google.*##div.eA0Zlc:has([href*=".redtube.com"])
@@ -771,6 +829,8 @@ google.*##div.eA0Zlc:has([href*=".sexlikereal.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sexlikereal.com"])
 google.*##div.eA0Zlc:has([href*=".sexvid.xxx"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sexvid.xxx"])
+google.*##div.eA0Zlc:has([href*=".sheer.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sheer.com"])
 google.*##div.eA0Zlc:has([href*=".superporn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".superporn.com"])
 google.*##div.eA0Zlc:has([href*=".terk.nl"])
@@ -805,6 +865,8 @@ google.*##div.eA0Zlc:has([href*=".xhdporno.porn"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".xhdporno.porn"])
 google.*##div.eA0Zlc:has([href*=".xnxx.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".xnxx.com"])
+google.*##div.eA0Zlc:has([href*=".xnxx-ru1.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".xnxx-ru1.com"])
 google.*##div.eA0Zlc:has([href*=".xnxx2.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".xnxx2.com"])
 google.*##div.eA0Zlc:has([href*=".xozilla.com"])
@@ -829,6 +891,8 @@ google.*##div.eA0Zlc:has([href*=".youporn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".youporn.com"])
 google.*##div.eA0Zlc:has([href*=".youx.xxx"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".youx.xxx"])
+google.*##div.eA0Zlc:has([href*="://159.89.198.98"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://159.89.198.98"])
 google.*##div.eA0Zlc:has([href*="://4porn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://4porn.com"])
 google.*##div.eA0Zlc:has([href*="://777.porn"])
@@ -863,6 +927,8 @@ google.*##div.eA0Zlc:has([href*="://check.porn"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://check.porn"])
 google.*##div.eA0Zlc:has([href*="://coomer.su"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://coomer.su"])
+google.*##div.eA0Zlc:has([href*="://dudethrill.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://dudethrill.com"])
 google.*##div.eA0Zlc:has([href*="://e621.net"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://e621.net"])
 google.*##div.eA0Zlc:has([href*="://e-hentai.org"])
@@ -903,6 +969,8 @@ google.*##div.eA0Zlc:has([href*="://gay.bingo"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://gay.bingo"])
 google.*##div.eA0Zlc:has([href*="://gelbooru.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://gelbooru.com"])
+google.*##div.eA0Zlc:has([href*="://girlsgonewild.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://girlsgonewild.com"])
 google.*##div.eA0Zlc:has([href*="://happy-porn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://happy-porn.com"])
 google.*##div.eA0Zlc:has([href*="://hclips.com"])
@@ -949,8 +1017,6 @@ google.*##div.eA0Zlc:has([href*="://made.porn"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://made.porn"])
 google.*##div.eA0Zlc:has([href*="://manyrecs.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://manyrecs.com"])
-google.*##div.eA0Zlc:has([href*="://manyvids.com"])
-google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://manyvids.com"])
 google.*##div.eA0Zlc:has([href*="://megapornfreehd.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://megapornfreehd.com"])
 google.*##div.eA0Zlc:has([href*="://milf300.com"])
@@ -987,6 +1053,8 @@ google.*##div.eA0Zlc:has([href*="://porn112.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://porn112.com"])
 google.*##div.eA0Zlc:has([href*="://porn62.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://porn62.com"])
+google.*##div.eA0Zlc:has([href*="://pornbox.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://pornbox.com"])
 google.*##div.eA0Zlc:has([href*="://porncord.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://porncord.com"])
 google.*##div.eA0Zlc:has([href*="://porncrash.com"])
@@ -1013,6 +1081,8 @@ google.*##div.eA0Zlc:has([href*="://pornwebmasters.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://pornwebmasters.com"])
 google.*##div.eA0Zlc:has([href*="://pornworld.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://pornworld.com"])
+google.*##div.eA0Zlc:has([href*="://pornx.tube"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://pornx.tube"])
 google.*##div.eA0Zlc:has([href*="://pornzog.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://pornzog.com"])
 google.*##div.eA0Zlc:has([href*="://reachporn.com"])
@@ -1049,6 +1119,8 @@ google.*##div.eA0Zlc:has([href*="://stream-leak.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://stream-leak.com"])
 google.*##div.eA0Zlc:has([href*="://stripchat.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://stripchat.com"])
+google.*##div.eA0Zlc:has([href*="://sxyprn.net"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://sxyprn.net"])
 google.*##div.eA0Zlc:has([href*="://thatpervert.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://thatpervert.com"])
 google.*##div.eA0Zlc:has([href*="://thebestfetishsites.com"])
@@ -1149,8 +1221,8 @@ google.*##div.eA0Zlc:has([href*="://xxxi.porn"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://xxxi.porn"])
 google.*##div.eA0Zlc:has([href*="://yespornpleasexxx.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://yespornpleasexxx.com"])
-google.*##div.eA0Zlc:has([href*="://zbporn."])
-google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://zbporn."])
+google.*##div.eA0Zlc:has([href*="://zbporn."]) 
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://zbporn."]) 
 google.*##div.eA0Zlc:has([href^="https://www.reddit.com/r/slut"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href^="https://www.reddit.com/r/slut"])
 linktr.ee##.group:has([type="ONLYFANS"])

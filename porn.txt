@@ -1,5 +1,5 @@
 ! Title: Porn Blocklist for uBlock Origin
-! Last Updated: 2024-11-30 04:27
+! Last Updated: 2024-11-30 04:32
 ! Description: My own porn/erotica blocklist which also aims to hide porn search results on popular sites like Google.
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
@@ -49,6 +49,7 @@
 ||camwhores.tv^
 ||camwhores.video^
 ||camwhoresbay.com^
+||canalporno.com^
 ||cbcam2cam.com^
 ||cdn-d1.com^
 ||cdn37804682.ahacdn.me^
@@ -280,6 +281,7 @@
 ||txxx.com^
 ||txxx.tube^
 ||upornia.com^
+||videosgratis.tv^
 ||vrporn.com^
 ||wapbold.net^
 ||wav.tv^
@@ -347,6 +349,7 @@
 ##[href*=".camwhores.tv"]
 ##[href*=".camsavexx.com"]
 ##[href*=".camshowrecordings.com"]
+##[href*=".canalporno.com"]
 ##[href*=".chaturbate.com"]
 ##[href*=".chaturbaterooms.com"]
 ##[href*=".data18.com"]
@@ -642,6 +645,8 @@ google.*##div.eA0Zlc:has([href*=".camwhores.tv"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".camwhores.tv"])
 google.*##div.eA0Zlc:has([href*=".camwhoresbay.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".camwhoresbay.com"])
+google.*##div.eA0Zlc:has([href*=".canalporno.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".canalporno.com"])
 google.*##div.eA0Zlc:has([href*=".chaturbate.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".chaturbate.com"])
 google.*##div.eA0Zlc:has([href*=".chaturbaterooms.com"])

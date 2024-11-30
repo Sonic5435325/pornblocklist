@@ -26,7 +26,6 @@
 ||anyporn.com^
 ||apornvideo.com^
 ||archivebate.com^
-||assur-cyber.fr^
 ||bcicdn.com.cdn.cloudflare.net^
 ||bcicdn.com^
 ||bigfuck.tv^
@@ -448,7 +447,6 @@
 ##[href*="://anyporn.com"]
 ##[href*="://archivebate.com"]
 ##[href*="://area51.porn"]
-##[href*="://assur-cyber.fr"]
 ##[href*="://beeg.porn"]
 ##[href*="://bestcam.tv"]
 ##[href*="://bestporncomix.com"]

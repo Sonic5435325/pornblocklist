@@ -1,5 +1,5 @@
 ! Title: Porn Blocklist for uBlock Origin
-! Last Updated: 2024-11-30 07:45
+! Last Updated: 2024-12-05 02:18
 ! Description: My own porn/erotica blocklist which also aims to hide porn search results on popular sites like Google.
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
@@ -87,6 +87,7 @@
 ||erothots.co^
 ||eroticbeauties.net^
 ||exxxtra.net^
+||fans.ly^
 ||fansly.com^
 ||fapcam.org^
 ||fapcat.com^
@@ -170,8 +171,10 @@
 ||novoporn.com^
 ||nubiles-porn.com^
 ||nudevista.com^
+||nxtdoorgirlkay.com^
 ||ocxim.com^
 ||omorashi.org^
+||onlyfans.com^
 ||onlyhgames.com^
 ||others-cdn.com^
 ||paheal.net^
@@ -280,6 +283,7 @@
 ||titis.org^
 ||tnaflix.com^
 ||tommys-bookmarks.com^
+||topfaps.com^
 ||toppornsites.com^
 ||totallyfreecam.com^
 ||trafficdeposit.com^
@@ -499,6 +503,7 @@
 ##[href*="://erohive.com"]
 ##[href*="://erothots.co"]
 ##[href*="://exxxtra.net"]
+##[href*="://fans.ly"]
 ##[href*="://fansly.com"]
 ##[href*="://fapello.com"]
 ##[href*="://faperoni.com"]
@@ -549,6 +554,8 @@
 ##[href*="://nhentaihaven.org"]
 ##[href*="://noodlemagazine.com"]
 ##[href*="://nubiles-porn.com"]
+##[href*="://nxtdoorgirlkay.com"]
+##[href*="://onlyfans.com"]
 ##[href*="://ok.porn"]
 ##[href*="://ok.xxx"]
 ##[href*="://porn-better.com"]
@@ -597,6 +604,7 @@
 ##[href*="://thisvid.com"]
 ##[href*="://thothub.to"]
 ##[href*="://titis.org"]
+##[href*="://topfaps.com"]
 ##[href*="://toppornsites.com"]
 ##[href*="://toppornsites.porn"]
 ##[href*="://totallyfreecam.com"]
@@ -942,6 +950,8 @@ google.*##div.eA0Zlc:has([href*="://erothots.co"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://erothots.co"])
 google.*##div.eA0Zlc:has([href*="://exxxtra.net"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://exxxtra.net"])
+google.*##div.eA0Zlc:has([href*="://fans.ly"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://fans.ly"])
 google.*##div.eA0Zlc:has([href*="://fansly.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://fansly.com"])
 google.*##div.eA0Zlc:has([href*="://fapello.com"])
@@ -1040,6 +1050,10 @@ google.*##div.eA0Zlc:has([href*="://noodlemagazine.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://noodlemagazine.com"])
 google.*##div.eA0Zlc:has([href*="://nubiles-porn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://nubiles-porn.com"])
+google.*##div.eA0Zlc:has([href*="://nxtdoorgirlkay.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://nxtdoorgirlkay.com"])
+google.*##div.eA0Zlc:has([href*="://onlyfans.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://onlyfans.com"])
 google.*##div.eA0Zlc:has([href*="://ok.porn"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://ok.porn"])
 google.*##div.eA0Zlc:has([href*="://ok.xxx"])
@@ -1138,6 +1152,8 @@ google.*##div.eA0Zlc:has([href*="://thothub.to"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://thothub.to"])
 google.*##div.eA0Zlc:has([href*="://titis.org"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://titis.org"])
+google.*##div.eA0Zlc:has([href*="://topfaps.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://topfaps.com"])
 google.*##div.eA0Zlc:has([href*="://toppornsites.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://toppornsites.com"])
 google.*##div.eA0Zlc:has([href*="://toppornsites.porn"])

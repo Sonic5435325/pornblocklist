@@ -36,6 +36,7 @@
 ||bellesa.co^
 ||best18porn.com^
 ||bestcam.tv^
+||bestfapgirls.co^
 ||bestporncomix.com^
 ||bigporn.com^
 ||bimbolive.com^
@@ -261,6 +262,7 @@
 ||savemycam.com^
 ||sex.com^
 ||sex^$all
+||sexemodel.com^
 ||sexlikereal.com^
 ||sexviacam.com^
 ||sexvideos.host^
@@ -389,6 +391,7 @@
 ##[href*=".analvids.com"]
 ##[href*=".apornvideo.com"]
 ##[href*=".bellesa.co"]
+##[href*=".bestfapgirls.co"]
 ##[href*=".bigporn.com"]
 ##[href*=".bigfuck.tv"]
 ##[href*=".boy18tube.com"]
@@ -418,6 +421,7 @@
 ##[href*=".freepornvideos.su"]
 ##[href*=".fuq.com"]
 ##[href*=".furaffinity.net"]
+##[href*=".fusker.xxx"]
 ##[href*=".gaymobile.fr"]
 ##[href*=".gotporn.com"]
 ##[href*=".hdpplanet.com"]
@@ -472,6 +476,7 @@
 ##[href*=".relax-porn.com"]
 ##[href*=".rexporn.sex"]
 ##[href*=".sex.com"]
+##[href*=".sexemodel.com"]
 ##[href*=".sexviacam.com"]
 ##[href*=".sexlikereal.com"]
 ##[href*=".sexvid.xxx"]
@@ -719,6 +724,8 @@ google.*##div.eA0Zlc:has([href*=".apornvideo.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".apornvideo.com"])
 google.*##div.eA0Zlc:has([href*=".bellesa.co"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".bellesa.co"])
+google.*##div.eA0Zlc:has([href*=".bestfapgirls.co"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".bestfapgirls.co"])
 google.*##div.eA0Zlc:has([href*=".bigporn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".bigporn.com"])
 google.*##div.eA0Zlc:has([href*=".boy18tube.com"])
@@ -777,6 +784,8 @@ google.*##div.eA0Zlc:has([href*=".fuq.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".fuq.com"])
 google.*##div.eA0Zlc:has([href*=".furaffinity.net"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".furaffinity.net"])
+google.*##div.eA0Zlc:has([href*=".fusker.xxx"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".fusker.xxx"])
 google.*##div.eA0Zlc:has([href*=".gaymobile.fr"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".gaymobile.fr"])
 google.*##div.eA0Zlc:has([href*=".gotporn.com"])
@@ -885,6 +894,8 @@ google.*##div.eA0Zlc:has([href*=".rexporn.sex"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".rexporn.sex"])
 google.*##div.eA0Zlc:has([href*=".sex.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sex.com"])
+google.*##div.eA0Zlc:has([href*=".sexemodel.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sexemodel.com"])
 google.*##div.eA0Zlc:has([href*=".sexviacam.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sexviacam.com"])
 google.*##div.eA0Zlc:has([href*=".sexlikereal.com"])

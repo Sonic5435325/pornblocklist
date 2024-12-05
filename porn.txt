@@ -155,6 +155,8 @@
 ||livesex.top^
 ||localxlist.org^
 ||lucasentertainment.com^
+||luvokx.com^
+||luvokx.su^
 ||luxuretv.com^
 ||manyrecs.com^
 ||manyvids.com^
@@ -571,6 +573,8 @@
 ##[href*="://letsjerk.tv"]
 ##[href*="://livesex.top"]
 ##[href*="://localxlist.org"]
+##[href*="://luvokx.com"]
+##[href*="://luvokx.su"]
 ##[href*="://made.porn"]
 ##[href*="://manyrecs.com"]
 ##[href*="://megapornfreehd.com"]
@@ -1081,6 +1085,10 @@ google.*##div.eA0Zlc:has([href*="://livesex.top"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://livesex.top"])
 google.*##div.eA0Zlc:has([href*="://localxlist.org"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://localxlist.org"])
+google.*##div.eA0Zlc:has([href*="://luvokx.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://luvokx.com"])
+google.*##div.eA0Zlc:has([href*="://luvokx.su"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://luvokx.su"])
 google.*##div.eA0Zlc:has([href*="://made.porn"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://made.porn"])
 google.*##div.eA0Zlc:has([href*="://manyrecs.com"])

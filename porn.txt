@@ -1,5 +1,5 @@
 ! Title: Porn Blocklist for uBlock Origin
-! Last Updated: 2024-12-08 08:56
+! Last Updated: 2024-12-08 23:05
 ! Description: My own porn/erotica blocklist which also aims to hide porn search results on popular sites like Google.
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
@@ -80,6 +80,7 @@
 ||dfv0rm7s0skbk.cloudfront.net^
 ||dinotube.com^
 ||dirtyship.com^
+||dreamcam.com^
 ||dudethrill.com^
 ||dwz6ii88l0azy.cloudfront.net^
 ||dz3ixmv6nok8z.cloudfront.net^
@@ -538,6 +539,7 @@
 ##[href*="://coomer.su"]
 ##[href*="://darknessporn.com"]
 ##[href*="://dirtyship.com"]
+##[href*="://dreamcam.com"]
 ##[href*="://dudethrill.com"]
 ##[href*="://e621.net"]
 ##[href*="://e-hentai.org"]
@@ -1016,6 +1018,8 @@ google.*##div.eA0Zlc:has([href*="://coomer.su"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://coomer.su"])
 google.*##div.eA0Zlc:has([href*="://darknessporn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://darknessporn.com"])
+google.*##div.eA0Zlc:has([href*="://dreamcam.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://dreamcam.com"])
 google.*##div.eA0Zlc:has([href*="://dudethrill.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://dudethrill.com"])
 google.*##div.eA0Zlc:has([href*="://e621.net"])

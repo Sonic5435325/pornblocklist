@@ -1,5 +1,5 @@
 ! Title: Porn Blocklist for uBlock Origin
-! Last Updated: 2024-12-05 03:44
+! Last Updated: 2024-12-08 08:56
 ! Description: My own porn/erotica blocklist which also aims to hide porn search results on popular sites like Google.
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
@@ -69,10 +69,12 @@
 ||coomer.su^
 ||content-pgames.b-cdn.net^
 ||d13ub1s9p0m8q4.cloudfront.net^
+||d1a0n9gptf7ayu.cloudfront.net^
 ||d1gsk730d2lzq5.cloudfront.net^
 ||d2eplt1hcq7brw.cloudfront.net^
 ||d2vzy90opisz4g.cloudfront.net^
 ||d3mrr2i9j2h80t.cloudfront.net^
+||darknessporn.com^
 ||data18.com^
 ||daywrzyvz0ar2.cloudfront.net^
 ||dfv0rm7s0skbk.cloudfront.net^
@@ -80,6 +82,7 @@
 ||dirtyship.com^
 ||dudethrill.com^
 ||dwz6ii88l0azy.cloudfront.net^
+||dz3ixmv6nok8z.cloudfront.net^
 ||e621.net^
 ||ehgt.org^
 ||empflix.com^
@@ -278,6 +281,7 @@
 ||stripchat.com^
 ||stripst.com^
 ||strpst.com^
+||suicidegirls.com^
 ||superporn.com^
 ||sxyprn.net^
 ||terk.nl^
@@ -481,6 +485,7 @@
 ##[href*=".sexlikereal.com"]
 ##[href*=".sexvid.xxx"]
 ##[href*=".sheer.com"]
+##[href*=".suicidegirls.com"]
 ##[href*=".superporn.com"]
 ##[href*=".terk.nl"]
 ##[href*=".thepornlist.net"]
@@ -531,6 +536,7 @@
 ##[href*="://chaturbate.com"]
 ##[href*="://check.porn"]
 ##[href*="://coomer.su"]
+##[href*="://darknessporn.com"]
 ##[href*="://dirtyship.com"]
 ##[href*="://dudethrill.com"]
 ##[href*="://e621.net"]
@@ -904,6 +910,8 @@ google.*##div.eA0Zlc:has([href*=".sexvid.xxx"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sexvid.xxx"])
 google.*##div.eA0Zlc:has([href*=".sheer.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".sheer.com"])
+google.*##div.eA0Zlc:has([href*=".suicidegirls.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".suicidegirls.com"])
 google.*##div.eA0Zlc:has([href*=".superporn.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".superporn.com"])
 google.*##div.eA0Zlc:has([href*=".terk.nl"])
@@ -1006,6 +1014,8 @@ google.*##div.eA0Zlc:has([href*="://check.porn"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://check.porn"])
 google.*##div.eA0Zlc:has([href*="://coomer.su"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://coomer.su"])
+google.*##div.eA0Zlc:has([href*="://darknessporn.com"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://darknessporn.com"])
 google.*##div.eA0Zlc:has([href*="://dudethrill.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*="://dudethrill.com"])
 google.*##div.eA0Zlc:has([href*="://e621.net"])

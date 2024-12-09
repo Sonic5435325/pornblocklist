@@ -1,5 +1,5 @@
 ! Title: Porn Blocklist for uBlock Origin
-! Last Updated: 2024-12-08 23:05
+! Last Updated: 2024-12-09 05:51
 ! Description: My own porn/erotica blocklist which also aims to hide porn search results on popular sites like Google.
 ! Expires: 1 day
 ! Homepage: https://github.com/Sonic5435325/pornblocklist-for-uBO
@@ -66,6 +66,7 @@
 ||celebjihad.com^
 ||chaturbate.com^
 ||chaturbaterooms.com^
+||coedcherry.xyz^
 ||coomer.su^
 ||content-pgames.b-cdn.net^
 ||d13ub1s9p0m8q4.cloudfront.net^
@@ -410,6 +411,7 @@
 ##[href*=".canalporno.com"]
 ##[href*=".chaturbate.com"]
 ##[href*=".chaturbaterooms.com"]
+##[href*=".coedcherry.xyz"]
 ##[href*=".data18.com"]
 ##[href*=".dinotube.com"]
 ##[href*=".empflix.com"]
@@ -760,6 +762,8 @@ google.*##div.eA0Zlc:has([href*=".chaturbate.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".chaturbate.com"])
 google.*##div.eA0Zlc:has([href*=".chaturbaterooms.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".chaturbaterooms.com"])
+google.*##div.eA0Zlc:has([href*=".coedcherry.xyz"])
+google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".coedcherry.xyz"])
 google.*##div.eA0Zlc:has([href*=".data18.com"])
 google.*##.GyAeWb.YNk70c .dURPMd > div > div:has([href*=".data18.com"])
 google.*##div.eA0Zlc:has([href*=".dinotube.com"])
